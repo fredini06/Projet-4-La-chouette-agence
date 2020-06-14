@@ -1028,6 +1028,28 @@ h4 {
     }
 }
 
+/* CORRECTIONS */
+
+.rowp{
+    width: 610px;
+    margin: 0 auto;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.rowp2{
+    width: 490px;
+    margin: 0 auto;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.rowp3{
+    width: 610px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
