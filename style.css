@@ -90,10 +90,10 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/* .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-}
+} */
 
 .b-parallax {
     background-attachment: fixed;
@@ -1066,6 +1066,7 @@ h4 {
 
 .liens__margin{
     margin-right: 20px;
+    float: right;
 }
 
 .tight-width-whitespace{
@@ -1123,6 +1124,19 @@ h4 {
     text-align: center;
     font-size: 22px;
     color: #fff!important;
+}
+
+/* CONTACT */
+
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.liens__none{
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 20px;
 }
 
 @media (max-width: 400px) {
