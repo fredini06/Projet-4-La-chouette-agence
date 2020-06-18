@@ -1137,6 +1137,22 @@ h4 {
     text-decoration: none;
     margin-top: 15px;
     font-size: 20px;
+    color: #000!important;
+}
+
+.bloc-lg2{
+    padding: 50px;
+}
+
+.ad p{
+    text-align: center;
+    font-size: 17px;
+    color: #000!important;
+}
+
+.form-group label{
+    font-size: 17px;
+    color: #000!important;
 }
 
 @media (max-width: 400px) {
