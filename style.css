@@ -90,10 +90,10 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/* .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-}
+} */
 
 .b-parallax {
     background-attachment: fixed;
@@ -771,20 +771,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #97380c;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #97380c;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #834a2f!important;
     color: #FFFFFF!important;
 }
 
@@ -1026,6 +1026,133 @@ h4 {
         width: 180px;
         height: 320px;
     }
+}
+
+/* CORRECTIONS */
+
+.rowp{
+    width: 610px;
+    margin: 0 auto;
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #000!important;
+}
+
+.text-center{
+    font-size: 19px;
+    color: #000!important;
+}
+
+.rowp2{
+    width: 490px;
+    margin: 0 auto;
+    font-size: 20px;
+    font-style: italic;
+    color: #000!important;
+}
+
+.rowp3{
+    width: 610px;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #000!important;
+}
+
+.liens__float{
+    float: right;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.liens__margin{
+    margin-right: 20px;
+    float: right;
+}
+
+.tight-width-whitespace{
+    max-width: 1000px;
+}
+
+.tc-white{
+    font-size: 22px;
+    font-weight: bold;
+    color: #FFF!important;
+}
+
+.white{
+    color: #FFF!important;
+    font-size: 22px; 
+}
+
+.mg-md{
+    font-size: 20px;
+}
+
+
+.portfolio-row {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.col-sm-6 a{
+    width: 270px;
+    flex-direction: column;
+}
+
+.col-sm-6 p{
+   margin-bottom: 30px;
+}
+
+.rowb{
+    display: flex;
+}
+
+.part{
+    justify-content: center;
+    margin: 30px auto;
+}
+
+.part a{
+    display: block;
+    text-align: center;
+    color: #FFF!important;
+    font-size: 17px;
+}
+
+.bot{
+    text-align: center;
+    font-size: 22px;
+    color: #fff!important;
+}
+
+/* CONTACT */
+
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.liens__none{
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #000!important;
+}
+
+.bloc-lg2{
+    padding: 50px;
+}
+
+.ad p{
+    text-align: center;
+    font-size: 17px;
+    color: #000!important;
+}
+
+.form-group label{
+    font-size: 17px;
+    color: #000!important;
 }
 
 @media (max-width: 400px) {
