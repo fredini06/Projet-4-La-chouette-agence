@@ -789,7 +789,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .ltc-white:hover {
@@ -1084,8 +1084,15 @@ h4 {
     font-size: 22px; 
 }
 
+.black{
+    color: #000!important;
+    font-size: 22px; 
+}
+
 .mg-md{
     font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 
