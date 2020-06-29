@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #97380c;
+    background-color: #f3976c;
 }
 
 .tc-white {
@@ -779,12 +779,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #97380c;
-    color: #FFFFFF!important;
+    background:  #f3976c;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #834a2f!important;
+    background: #c27956!important;
     color: #FFFFFF!important;
 }
 
@@ -1117,14 +1117,14 @@ h4 {
 .part a{
     display: block;
     text-align: center;
-    color: #FFF!important;
+    color: #000!important;
     font-size: 17px;
 }
 
 .bot{
     text-align: center;
     font-size: 22px;
-    color: #fff!important;
+    color: #000!important;
 }
 
 /* CONTACT */
