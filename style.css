@@ -1177,4 +1177,7 @@ h4 {
         display: inline-block;
         max-width: 300px;
     }  
+    .col-sm-6 a{
+        margin: 0 auto;
+    }
 }
